@@ -321,7 +321,7 @@ module.exports = function (grunt) {
       dist: {
         options: {
           remote: '../',
-          branch: 'github-pages',
+          branch: 'gh-pages',
           commit: true,
           push: true
         }
